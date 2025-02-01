@@ -2,6 +2,8 @@
 
 A Linux-based system that creates virtual multimedia devices that fully emulate physical hardware. Applications interact with these virtual devices exactly as they would with real cameras and microphones, enabling seamless integration with any software that expects physical multimedia hardware.
 
+![MICAMIR Demo](micamir.gif)
+
 ## Features
 
 - **Hardware Device Emulation**
